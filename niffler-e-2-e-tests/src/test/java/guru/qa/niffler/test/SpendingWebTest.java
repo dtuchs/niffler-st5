@@ -16,7 +16,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
 
 @ExtendWith(SpendExtension.class)
-public class SpendingTest {
+public class SpendingWebTest {
 
     static {
         Configuration.browserSize = "1920x1080";
